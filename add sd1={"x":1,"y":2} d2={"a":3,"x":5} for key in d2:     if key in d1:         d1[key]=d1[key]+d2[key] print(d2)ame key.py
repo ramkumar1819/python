@@ -4,4 +4,4 @@ d2={"a":3,"x":5}
 for key in d2:
     if key in d1:
         d1[key]=d1[key]+d2[key]
-print(d2)
+print(d1)
